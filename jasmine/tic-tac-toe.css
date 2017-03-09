@@ -1,0 +1,20 @@
+
+h1 {
+  text-align: center;
+  margin: 50px;
+  font-family: 'Anton';
+  font-size: 100px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+table td {
+  width: 100px;
+  height: 100px;
+  border: white solid 2px;
+  border-radius: 5px;
+  text-align: center;
+}
